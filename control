@@ -1,0 +1,9 @@
+Package: com.runtimeoverflow.colormebaddge13
+Name: ColorMeBaddge13
+Depends: firmware (>= 13), mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Sex up your badges with icon-based colors
+Maintainer: RuntimeOverflow <mail@runtimeoverflow.com>
+Author: midey & RuntimeOverflow <mail@runtimeoverflow.com>
+Section: Tweaks

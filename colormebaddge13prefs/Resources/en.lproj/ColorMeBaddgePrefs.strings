@@ -1,0 +1,20 @@
+PAGE_TITLE = "ColorMeBaddge";
+
+TWEAK_ENABLED_FOOTER = "A respring is required to fully disable this tweak.";
+
+TWEAK_ENABLED_SWITCH_LABEL = "Enabled";
+
+APP_BADGE_SETTINGS_LABEL = "App Badges";
+FOLDER_BADGE_SETTINGS_LABEL = "Folder Badges";
+SPECIAL_BADGE_SETTINGS_LABEL = "Special Badges";
+SHAPE_SETTINGS_LABEL = "Shape Settings";
+BORDER_SETTINGS_LABEL = "Border Settings";
+BRIGHTNESS_SETTINGS_LABEL = "Brightness Settings";
+MISCELLANEOUS_SETTINGS_LABEL = "Miscellaneous Settings";
+
+RESPRING_FOOTER = "Changes made above take effect immediately.  A respring is only required when disabling this tweak.";
+RESPRING_LABEL = "Respring";
+
+CREDITS_LABEL = "Acknowledgements";
+
+COPYRIGHT_FOOTER = "\U00A9 2016-2020\nCreated by midey <mideydev@gmail.com>\nUpdated by RuntimeOverflow <mail@runtimeoverflow.com>";

@@ -1,0 +1,18 @@
+PAGE_TITLE = "Miscellaneous Options";
+
+UNMASKED_ICONS_GROUP_FOOTER = "Enable this to allow badge color algorithms to use pixels that are normally not visible on the screen due to icon masking.";
+UNMASKED_ICONS_SWITCH_LABEL = "Use Unmasked Icons";
+
+SHOW_ALL_BADGES_GROUP_FOOTER = "Enable this to allow all apps to show badges, even if disabled in Notifications.";
+SHOW_ALL_BADGES_SWITCH_LABEL = "Show All Badges";
+
+SWITCHER_BADGES_GROUP_FOOTER = "*CURRENTLY UNSUPPORTED* Enable this to show badges in the app switcher.";
+SWITCHER_BADGES_SWITCH_LABEL = "Switcher Badges";
+
+PROVIDE_COLORS_FOR_COLORBANNERS_GROUP_FOOTER = "Enable this to make ColorBanners choose colors according to your app badge background colorization settings.  Requires ColorBanners, ColorBanners 2 or ColorBanners 3 to be installed.";
+PROVIDE_COLORS_FOR_COLORBANNERS_SWITCH_LABEL = "Provide Colors for ColorBanners";
+
+COLORIZE_EMOJIS_GROUP_FOOTER = "For badges that contain emojis, enabling this will cause them to be filled with the badge text color.  Leave disabled to let these badges through untouched (including any non-emoji text).";
+COLORIZE_EMOJIS_SWITCH_LABEL = "Colorize Emojis";
+
+RESET_LABEL = "Reset to Defaults";
