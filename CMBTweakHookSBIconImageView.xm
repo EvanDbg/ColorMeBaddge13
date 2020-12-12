@@ -10,7 +10,7 @@
 @end
 
 -(void)iconImageDidUpdate:(id)arg1 {
-	%orig();
+	%orig;
 	
 	if (![[CMBPreferences sharedInstance] tweakEnabled]) return;
 	
